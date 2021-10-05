@@ -32,7 +32,7 @@ Winning Vote Count: 272,892
 Winning Percentage: 73.8%
 
 ## Summary
-This script proved very useful and could be used for any election by making some of easy modifications:
+This script is designed to be very versatile and could be used for any election by making a few simple changes:
 1.	Ensure the files to load and save are updated with new paths and proper corresponding path names that will be read/written to
 2.	Adjust the candidate name and county name column values as needed
 3.	If there are other pieces of information, such as state or district, the code blocks used for county/candidate could be slightly altered to include additional data. The column would have to be added to where the candidate/county name values are derived.
